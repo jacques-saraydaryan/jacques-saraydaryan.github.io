@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://jacques-saraydaryan.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -34,7 +34,7 @@ tagline:               >
   A Short description about my activities and interests
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [jacques,saraydaryan, robotic, security, research, teaching]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
