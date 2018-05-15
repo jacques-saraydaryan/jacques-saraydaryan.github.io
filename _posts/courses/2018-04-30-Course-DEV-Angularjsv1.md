@@ -8,5 +8,5 @@ img: /assets/img/courses/angular.js-first.png
 pdf: /assets/pdf/courses/Angular.js.r1.pdf
 lang: fr
 ---
-
+# Angular JS v1
 ## Course Description
