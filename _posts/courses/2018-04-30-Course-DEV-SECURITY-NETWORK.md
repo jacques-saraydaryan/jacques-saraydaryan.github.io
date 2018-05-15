@@ -8,5 +8,5 @@ img: /assets/img/courses/securite-reseau-first.png
 pdf: /assets/pdf/courses/Security-JSA-Reseaux-r1.pdf
 lang: fr
 ---
-
+# NETWORK SECURITY
 ## Course Description
