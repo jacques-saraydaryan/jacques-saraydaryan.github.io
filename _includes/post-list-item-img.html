@@ -16,6 +16,8 @@
     {% if post.alt %}alt="{{ post.alt }}"{% endif %}
   />
   {% endif %}
+    
+    <h2>{{post.title}}</h2>
   <a href="{{ post.url | relative_url }}" class="h4 flip-title" style="display:block">
     <span>{{post.title}}</span>
   </a>
