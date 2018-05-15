@@ -8,5 +8,5 @@ img: /assets/img/courses/securite-intro-first.png
 pdf: /assets/pdf/courses/Security-JSA-Intro-r3.pdf
 lang: fr
 ---
-
+# Security Introduction
 ## Course Description
