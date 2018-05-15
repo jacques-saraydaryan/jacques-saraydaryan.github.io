@@ -8,5 +8,5 @@ img: /assets/img/courses/jee-webcontainer-first.png
 pdf: /assets/pdf/courses/JEE-WebContainer-2016-r5.pdf
 lang: fr
 ---
-
+# JEE Web Container
 ## Course Description
