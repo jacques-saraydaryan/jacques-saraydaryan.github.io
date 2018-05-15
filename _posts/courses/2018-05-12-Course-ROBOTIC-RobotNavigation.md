@@ -9,5 +9,5 @@ pdf: /assets/pdf/courses/Robot-Navigation-Collision-Avoidance-r3.pdf
 lang: en
 
 ---
-
+# Robot Navigation and Collision Avoidance
 ## Course Description
