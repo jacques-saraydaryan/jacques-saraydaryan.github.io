@@ -9,5 +9,5 @@ pdf: /assets/pdf/courses/Cloud-Computing-intro.pdf
 lang: fr
 
 ---
-
+# Cloud Computing
 ## Course Description
