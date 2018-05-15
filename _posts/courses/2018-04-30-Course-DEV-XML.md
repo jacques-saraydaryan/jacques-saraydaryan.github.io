@@ -8,5 +8,5 @@ img: /assets/img/courses/XML-first.png
 pdf: /assets/pdf/courses/XML-JSA-r5.pdf
 lang: fr
 ---
-
+# XML
 ## Course Description
