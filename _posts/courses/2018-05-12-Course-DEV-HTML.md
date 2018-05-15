@@ -9,5 +9,5 @@ pdf: /assets/pdf/courses/HTML-JSA-r3.pdf
 lang: fr
 
 ---
-
+# HTML
 ## Course Description
