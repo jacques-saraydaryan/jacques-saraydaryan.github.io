@@ -6,7 +6,7 @@ description: >
 tags: [course, DEV]
 img: /assets/img/courses/ReactJs.jpg
 pdf: /assets/pdf/courses/React.js.r1.pdf
-lang: fr
+lang: en
 ---
 # React.js And Redux
 ## Course Description
