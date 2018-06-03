@@ -39,6 +39,7 @@ keywords:              [jacques,saraydaryan, robotic, security, research, teachi
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon2.png
 
+
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
