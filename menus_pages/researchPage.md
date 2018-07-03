@@ -17,6 +17,12 @@ accent_image:
 
 * J. Saraydaryan, Détection d’Anomalies Comportementales Appliquées à la Vision Globale, INSA-Lyon 2008
 
+# 2018
+
+## International Conferences
+
+* F. Jumel, J. Saraydaryan, R. Leber, L. Matignon, E. Lombardi, C. Wolf and O. Simonin,"Context Aware Robot Architecture, Application to the Robocup@Home Challenge", RoboCup Symposium 2018
+
 # 2017
 ***
 ## National Journals
