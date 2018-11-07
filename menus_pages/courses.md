@@ -1,6 +1,6 @@
 ---
 layout: listTag
-title: NEWCourses
+title: Courses
 slug: course
 menu: true
 order: 3
