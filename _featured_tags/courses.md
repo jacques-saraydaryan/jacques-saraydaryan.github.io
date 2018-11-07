@@ -2,7 +2,7 @@
 layout: listTag
 title: Courses
 slug: course
-menu: true
+menu: false
 order: 2
 description: >
   **Scientific Coordinator** at Cpe Lyon for the computing science domain,
