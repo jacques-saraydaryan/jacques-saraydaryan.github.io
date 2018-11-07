@@ -23,6 +23,11 @@ accent_image:
 
 * F. Jumel, J. Saraydaryan, R. Leber, L. Matignon, E. Lombardi, C. Wolf and O. Simonin,"Context Aware Robot Architecture, Application to the Robocup@Home Challenge", RoboCup Symposium 2018
 
+## International Workshops
+
+* J. Saraydaryan,F. Jumel and O. Simonin,"Navigation in Human Flow: Planning with Adaptive Motion Grid", Workshop IROS CrowdNav, 2018
+
+
 # 2017
 ***
 ## National Journals
