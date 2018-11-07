@@ -3,7 +3,7 @@ layout: listTag
 title: Courses
 slug: course
 menu: true
-order: 3
+order: 2
 description: >
   **Scientific Coordinator** at Cpe Lyon for the computing science domain,
   Head of the CPE Computing science speciality,
