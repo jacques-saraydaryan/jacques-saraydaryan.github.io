@@ -1,0 +1,13 @@
+---
+layout: base
+---
+<h1>Project Description</h1>
+
+<ul>
+ {% assign sorted = (site.categories.actu | sort: 'date') | reverse %}
+  {% for post in  sorted%}    
+        {% include actu.html post=post format=list_entry %}
+  {% endfor %}
+
+  
+</ul>

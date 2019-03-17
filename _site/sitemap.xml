@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/tag/courses/</loc>
-<lastmod>2019-03-17T17:25:22+01:00</lastmod>
+<lastmod>2019-03-17T19:13:56+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2012/02/06/whats-jekyll/</loc>
@@ -51,6 +51,10 @@
 <url>
 <loc>http://localhost:4000/2017/11/22/example-content/</loc>
 <lastmod>2017-11-22T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/actu/2018/03/17/Robocup-2018-worldmng/</loc>
+<lastmod>2018-03-17T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2018/04/25/papers/</loc>
@@ -145,6 +149,14 @@
 <lastmod>2018-05-16T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/actu/2019/03/17/PheromoneRobot/</loc>
+<lastmod>2019-03-17T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/actu/2019/03/17/Robocup-2019-overall/</loc>
+<lastmod>2019-03-17T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/licenses/Apache-2.0/</loc>
 </url>
 <url>
@@ -167,6 +179,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/menus_pages/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/menus_pages/actu/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/docs/7.5.1/advanced/</loc>
