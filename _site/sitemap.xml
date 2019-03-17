@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/tag/courses/</loc>
-<lastmod>2019-03-17T17:12:21+01:00</lastmod>
+<lastmod>2019-03-17T17:25:22+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2012/02/06/whats-jekyll/</loc>
@@ -200,9 +200,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/noDisplayedPages/posts/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/menus_pages/research/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/menus_pages/researchPage/</loc>
