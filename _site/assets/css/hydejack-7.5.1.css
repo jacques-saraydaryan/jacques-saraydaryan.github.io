@@ -680,12 +680,12 @@ hy-push-state,hy-drawer {
 }
 @media screen and (min-width: 42em) {
  html {
-  font-size:17px
+  font-size:14px
  }
 }
 @media screen and (min-width: 125em) {
  html {
-  font-size:18px
+  font-size:16px
  }
 }
 @media print {
