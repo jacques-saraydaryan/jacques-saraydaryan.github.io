@@ -9,6 +9,5 @@ img: /assets/img/actu/robocup2019.png
 video: https://www.youtube.com/embed/rouCK6CH_eM
 lang: fr
 ---
-# Angular JS v1
-## Course Description
+
 
