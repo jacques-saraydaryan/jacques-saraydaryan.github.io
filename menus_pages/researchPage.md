@@ -17,6 +17,12 @@ accent_image:
 
 * J. Saraydaryan, Détection d’Anomalies Comportementales Appliquées à la Vision Globale, INSA-Lyon 2008
 
+# 2019
+***
+## International Conferences
+* R. Bresson, J. Saraydaryan, J. Dugdale, A. Spalanzani, [Socially Compliant Navigation in Dense Crowds](https://hal.inria.fr/hal-02096006),30th IEEE Intelligent Vehicles Symposium IV, 2019
+
+
 # 2018
 ***
 ## International Conferences
