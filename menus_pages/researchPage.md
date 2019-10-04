@@ -19,16 +19,16 @@ accent_image:
 # 2019
 ***
 ## International Conferences
-* **(best paper)** J. Saraydaryan, R. Leber, F. Jumel, People management framework using a 2D camera for human-robot social interactions, 23rd Annual RoboCup International Symposium RCS, 2019
-* B. Renault, J. Saraydaryan, S. Simonin, [Towards S-NAMO: Socially-aware Navigation Among Movable Obstacles](https://hal.archives-ouvertes.fr/hal-02293242), 23rd Annual RoboCup International Symposium RCS, 2019
-* R. Bresson, J. Saraydaryan, J. Dugdale, A. Spalanzani, [Socially Compliant Navigation in Dense Crowds](https://hal.inria.fr/hal-02096006),30th IEEE Intelligent Vehicles Symposium IV, 2019
+* **(best paper)** J. Saraydaryan, R. Leber, F. Jumel, "People management framework using a 2D camera for human-robot social interactions", 23rd Annual RoboCup International Symposium RCS, 2019
+* B. Renault, J. Saraydaryan, S. Simonin, ["Towards S-NAMO: Socially-aware Navigation Among Movable Obstacles"](https://hal.archives-ouvertes.fr/hal-02293242), 23rd Annual RoboCup International Symposium RCS, 2019
+* R. Bresson, J. Saraydaryan, J. Dugdale, A. Spalanzani, ["Socially Compliant Navigation in Dense Crowds"](https://hal.inria.fr/hal-02096006),30th IEEE Intelligent Vehicles Symposium IV, 2019
 
 
 # 2018
 ***
 ## International Conferences
 
-* F. Jumel, J. Saraydaryan, R. Leber, L. Matignon, E. Lombardi, C. Wolf and O. Simonin,"Context Aware Robot Architecture, Application to the Robocup@Home Challenge", RoboCup Symposium 2018
+* F. Jumel, J. Saraydaryan, R. Leber, L. Matignon, E. Lombardi, C. Wolf and O. Simonin,["Context Aware Robot Architecture, Application to the Robocup@Home Challenge"](https://hal.archives-ouvertes.fr/hal-01832613), RoboCup Symposium 2018
 
 ## International Workshops
 
