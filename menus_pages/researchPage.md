@@ -39,11 +39,11 @@ accent_image:
 ***
 ## National Journals
 
-* J. Saraydaryan, F. Jumel, O. Simonin, Patrouille Multi-Agent Dynamique, application Robotique pour le Service de Personnes Mobiles, RIA Revue d’Intelligence Artificielle, RIA 2017
+* J. Saraydaryan, F. Jumel, O. Simonin, ["Patrouille Multi-Agent Dynamique, application Robotique pour le Service de Personnes Mobiles"](https://hal.archives-ouvertes.fr/hal-01497878), RIA Revue d’Intelligence Artificielle, RIA 2017
 
 ## International Conferences
 
-* F. Jumel, J. Saraydaryan, O. Simonin, Mapping likelihood of encountering humans: application to path planning in crowded environment ECMR 2017, Proccedings ECMR’2017, Paris.
+* F. Jumel, J. Saraydaryan, O. Simonin, ["Mapping likelihood of encountering humans: application to path planning in crowded environment"](https://hal.archives-ouvertes.fr/hal-01588815) ECMR 2017, Proccedings ECMR’2017, Paris.
 
 # 2016
 ***
@@ -60,7 +60,7 @@ accent_image:
 
 ## Workshops
 
-* J. Saraydaryan, F. Jumel, O. Simonin, Modeling human flows from robots perception : application to navigation in dynamic environment, On-line decision-making in multi-robot coordination, DEMUR, 2016.
+* J. Saraydaryan, F. Jumel, O. Simonin, ["Modeling human flows from robots perception : application to navigation in dynamic environment"](https://hal.archives-ouvertes.fr/hal-01357791), On-line decision-making in multi-robot coordination, DEMUR, 2016.
 
 ## National Conferences
 
