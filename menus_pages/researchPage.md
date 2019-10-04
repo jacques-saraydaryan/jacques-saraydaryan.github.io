@@ -14,12 +14,12 @@ accent_image:
 
 ## Thesis
 ***
-
 * J. Saraydaryan, Détection d’Anomalies Comportementales Appliquées à la Vision Globale, INSA-Lyon 2008
 
 # 2019
 ***
 ## International Conferences
+* B. Renault, J. Saraydaryan, S. Simonin, Towards S-NAMO: Socially-aware Navigation Among Movable Obstacles, 23rd Annual RoboCup International Symposium RCS, 2019
 * R. Bresson, J. Saraydaryan, J. Dugdale, A. Spalanzani, [Socially Compliant Navigation in Dense Crowds](https://hal.inria.fr/hal-02096006),30th IEEE Intelligent Vehicles Symposium IV, 2019
 
 
