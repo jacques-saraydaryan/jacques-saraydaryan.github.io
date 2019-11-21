@@ -6,7 +6,7 @@ description: >
   Work was done with Raphael Leber and Fabrice Jumel
 tags: [project]
 category: actu
-img: /assets/img/actu/robocup-pepper.jpg
+img: /assets/img/actu/research.jpg
 video: https://www.youtube.com/embed/0qSulBGBarg
 lang: fr
 ---
