@@ -16,6 +16,11 @@ accent_image:
 ***
 * J. Saraydaryan, Détection d’Anomalies Comportementales Appliquées à la Vision Globale, INSA-Lyon 2008
 
+# 2020
+***
+## International Conferences
+* B. Renault, J. Saraydaryan, O. Simonin,"Modeling a Social Placement Cost to Extend Navigation Among Movable Obstacles (NAMO) Algorithms", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+
 # 2019
 ***
 ## International Conferences
