@@ -6,6 +6,7 @@ description: >
 tags: [project]
 category: actu
 img: /assets/img/actu/research.jpg
+videotype: mp4
 video: https://team.inria.fr/chroma/files/2020/07/iros_2020_Renault.mp4
 lang: en
 ---
