@@ -6,7 +6,7 @@ description: >
 This paper, "Modeling a Social Placement Cost to Extend NavigationAmong Movable Obstacles (NAMO) Algorithms", intends to optimize object placement choices regarding some social constraints (not in the middle, narrow is worth, not breaking room connectivity).
 tags: [project]
 category: actu
-img: /assets/img/actu/training.jpg
+img: /assets/img/actu/research.jpg
 video: https://team.inria.fr/chroma/files/2020/07/iros_2020_Renault.mp4
 lang: en
 ---
