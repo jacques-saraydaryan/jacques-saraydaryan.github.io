@@ -19,7 +19,7 @@ accent_image:
 # 2020
 ***
 ## International Conferences
-* B. Renault, J. Saraydaryan, O. Simonin,"Modeling a Social Placement Cost to Extend Navigation Among Movable Obstacles (NAMO) Algorithms", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+* B. Renault, J. Saraydaryan, O. Simonin,["Modeling a Social Placement Cost to Extend Navigation Among Movable Obstacles (NAMO) Algorithms"](https://hal.archives-ouvertes.fr/hal-02912925/document), IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
 
 # 2019
 ***
