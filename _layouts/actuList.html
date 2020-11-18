@@ -6,7 +6,13 @@ layout: base
 <ul>
  {% assign sorted = (site.categories.actu | sort: 'date') | reverse %}
   {% for post in  sorted%}    
-        {% include actu.html post=post format=list_entry %}
+        
+        {% if post.videotype == "mp4" %}
+             {% include actu-mp4.html post=post format=list_entry %}  
+        {% else %}
+             {% include actu.html post=post format=list_entry %}  
+        {% endif %}
+        
   {% endfor %}
 
   
