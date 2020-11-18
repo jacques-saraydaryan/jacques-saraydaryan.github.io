@@ -10,9 +10,5 @@ videotype: mp4
 video: https://team.inria.fr/chroma/files/2020/07/iros_2020_Renault.mp4
 lang: en
 ---
-## Paper reference:
-> B. Renault, J. Saraydaryan, O. Simonin, "Modeling a Social Placement Cost to Extend Navigation Among Movable Obstacles (NAMO) Algorithms". In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
-
-## Paper link
-The paper is available here [HAL](https://hal.archives-ouvertes.fr/hal-02912925/document).
+The paper is available here [HAL](https://hal.archives-ouvertes.fr/hal-02912925/document). Paper reference:  B. Renault, J. Saraydaryan, O. Simonin, "Modeling a Social Placement Cost to Extend Navigation Among Movable Obstacles (NAMO) Algorithms". In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
 
