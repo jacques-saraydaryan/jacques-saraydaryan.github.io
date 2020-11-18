@@ -1,0 +1,49 @@
+{% assign post = include.post %}
+{% assign format = include.format | default:site.data.strings.date_formats.related_post | default:"%d %b %Y" %}
+
+<li>
+  <div>
+      {% if post.img %}
+      <img
+      src="{% include smart-url url=post.img %}"
+      class="avatar-short"
+      {% if post.alt %}alt="{{ post.alt }}"{% endif %}
+    />
+    {% else %}
+    <img
+    src="{% include smart-url url='/assets/img/smallBigHero.jpg' %}"
+    class="avatar"
+    {% if post.alt %}alt="{{ post.alt }}"{% endif %}
+  />
+  {% endif %}
+ 
+  <a href="{{ post.url | relative_url }}" class="h4 flip-title" style="display:block">
+    <span>{{post.title}}</span>
+  </a>
+
+<!--
+<a href="" class="h4 flip-title" style="display:block">
+        <span>{{post.title}}</span>
+</a>
+-->
+  <p>{{post.description}}</p>
+  
+  {% if post.lang %}
+  <p style="display: inline;" class="heading faded fine">[{{post.lang}}]</p>
+  {% endif %}
+
+  {% if post.pdf %}
+  <a href="{{ post.pdf }}" title="Download" class="no-mark-external"> <span class="icon-box-add"></span> <span class="sr-only">Download</span> </a>
+  {% endif %}
+  
+  <time class="heading faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>
+  
+  
+  
+    <video width="100%" height="300" controls>
+      <source src={{post.video}} type="video/mp4">
+      Your browser does not support HTML video.
+    </video>
+  
+</div>
+</li>
