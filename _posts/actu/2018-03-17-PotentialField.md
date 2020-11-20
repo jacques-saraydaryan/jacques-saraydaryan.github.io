@@ -6,6 +6,6 @@ description: >
 tags: [project]
 category: actu
 img: /assets/img/actu/research.jpg
-video: https://www.youtube.com/embed/zG06ZZwNIuY
+video: https://www.youtube.com/embed/BDzufMACM2M
 lang: fr
 ---
