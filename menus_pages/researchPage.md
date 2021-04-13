@@ -37,7 +37,7 @@ accent_image:
 
 ## International Workshops
 
-* J. Saraydaryan,F. Jumel and O. Simonin,"Navigation in Human Flow: Planning with Adaptive Motion Grid", Workshop IROS CrowdNav, 2018
+* J. Saraydaryan,F. Jumel and O. Simonin,["Navigation in Human Flow: Planning with Adaptive Motion Grid"](https://hal.archives-ouvertes.fr/hal-03196208), Workshop IROS CrowdNav, 2018
 
 
 # 2017
