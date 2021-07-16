@@ -6,6 +6,6 @@ description: >
 tags: [project]
 category: actu
 img: /assets/img/actu/robocup-pepper.jpg
-video: https://www.youtube.com/embed/=XQTE-C2VS_M
+video: https://www.youtube.com/embed/XQTE-C2VS_M
 lang: en
 ---
