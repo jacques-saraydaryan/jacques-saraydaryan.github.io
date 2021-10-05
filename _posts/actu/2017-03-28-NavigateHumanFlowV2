@@ -1,6 +1,6 @@
 ---
 layout: actu
-title: Navigate Through Human Flow
+title: Navigate Through Human Flow v2
 description: >
   This video shows 3 navigation strategies based on the A* Short path planner. In this scenario 200 people cross 2 long corridors and a robot plan round trip between 2 points. 3 Algorithms are presented, A*, A* affordence map based (human presence likehood) and A* Flow grid based (human orientation estimation). The human flow changes of direction at 1m45s.
 tags: [project]
