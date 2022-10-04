@@ -10,7 +10,11 @@ layout: base
         {% if post.videotype == "mp4" %}
              {% include actu-mp4.html post=post format=list_entry %}  
         {% else %}
-             {% include actu.html post=post format=list_entry %}  
+             {% if post.videotype == "image" %}
+                  {% include actu-img.html post=post format=list_entry %}  
+             {% else %}
+                  {% include actu.html post=post format=list_entry %}  
+             {% endif %}
         {% endif %}
         
   {% endfor %}
