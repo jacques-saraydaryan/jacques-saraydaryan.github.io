@@ -1,6 +1,6 @@
 ---
 layout: actu
-title: Robots Deliver Service to Moving People : Individual vs. Group Patrolling Strategies
+title: Robots Deliver Service to Moving People - Individual vs. Group Patrolling Strategies
 description: >
   First proposition of strategies for robot service delivery. Robots need to coordinate their work to optimize service delivery to moving people.
 tags: [project]
