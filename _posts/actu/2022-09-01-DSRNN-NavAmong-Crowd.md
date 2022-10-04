@@ -1,6 +1,6 @@
 ---
 layout: actu-img
-title: Navigation Among Crowd: DEEP-RL
+title: Navigation Among Crowd - DEEP-RL - (Master 2)
 description: > 
  The following project refers to result of a Master 2 work, investing diffirente Deep-RL methods to help robot to navigate among Crowd.
 tags: [project]
