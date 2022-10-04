@@ -1,12 +1,13 @@
 ---
-layout: actu
+layout: actu-img
 title: Navigation Among Crowd: DEEP-RL (Master 2)
 description: > 
  The following project refers to result of a Master 2 work, investing diffirente Deep-RL methods to help robot to navigate among Crowd.
 tags: [project]
 category: actu
 img: /assets/img/actu/training.jpg
-video: todo
+img_front: /assest/img/actu/post/Post-DS-RNN5.jpg
+img_front_alt: Ds RNN update
 lang: en
 ---
 The following works compare different crowd navigation strategies. The work focuses on Deep-RL technics. 
