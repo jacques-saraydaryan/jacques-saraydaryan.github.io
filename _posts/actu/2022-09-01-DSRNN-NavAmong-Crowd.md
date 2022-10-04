@@ -8,7 +8,7 @@ category: actu
 img: /assets/img/actu/training.jpg
 img_front: /assest/img/actu/post/Post-DS-RNN5.jpg
 img_front_alt: Ds RNN update
-lang: en
+lang: fr
 ---
 The following works compare different crowd navigation strategies. The work focuses on Deep-RL technics. 
 To do so the [crowNav](https://github.com/Shuijing725/CrowdNav_DSRNN) simulator has been used and some [improvements](https://github.com/michelland/DSRNN) made to add more realistic hypotheses.
