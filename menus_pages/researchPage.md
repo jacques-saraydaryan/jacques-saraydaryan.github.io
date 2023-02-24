@@ -13,7 +13,7 @@ accent_image:
 
 # 2023
 ***
-##
+## Awards
 - Fabrice Jumel, Benoit Renault, Jacques Saraydaryan, Olivier Simonin, Scientific Award, INSA-LYON, for International Competition Results (RoboCup@Home 2021): 2nd World Champion in SSPL (Social Standard Plateform League), Best SSPL Clean Up Award,6th World Champion In OPL (Open Plateform League).
 
 
