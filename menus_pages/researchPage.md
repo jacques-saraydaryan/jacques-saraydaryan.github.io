@@ -11,10 +11,17 @@ accent_image:
   overlay:    false
 ---
 
-
-## Thesis
+# 2023
 ***
-* J. Saraydaryan, Détection d’Anomalies Comportementales Appliquées à la Vision Globale, INSA-Lyon 2008
+##
+- Fabrice Jumel, Benoit Renault, Jacques Saraydaryan, Olivier Simonin, Scientific Award, INSA-LYON, for International Competition Results (RoboCup@Home 2021): 2nd World Champion in SSPL (Social Standard Plateform League), Best SSPL Clean Up Award,6th World Champion In OPL (Open Plateform League).
+
+
+# 2022
+***
+## Master’s thesis
+* Yohan Michelland, Laëtitia Matignon, Jacques Saraydaryan, Olivier Simonin. [Apprentissage pour la navigation robotique parmi les humains : vers des chemins s’adaptant aux dynamiques de l’environnement](https://hal.science/hal-03862226/file/Apprentissage_pour_la_navigation_robotique_parmi_les_humains___vers_des_chemins_d_adaptant_aux_dynamiques_de_l_environnement.pdf). Master’s thesis, 2022.
+
 
 # 2020
 ***
@@ -123,3 +130,7 @@ accent_image:
 ## National Conferences
 
 * J. Saraydaryan, F.Benali, G. Jombart,V. Legrand, S. Ubéda, L’Apport d’une Ontologie pour la Sécurité des Systèmes d’Information. Journées Francophones sur les Ontologies, JFO 2008.
+
+# Thesis
+***
+* J. Saraydaryan, Détection d’Anomalies Comportementales Appliquées à la Vision Globale, INSA-Lyon 2008
