@@ -16,6 +16,8 @@ accent_image:
 ## Awards
 - Fabrice Jumel, Benoit Renault, Jacques Saraydaryan, Olivier Simonin, Scientific Award, INSA-LYON, for International Competition Results (RoboCup@Home 2021): 2nd World Champion in SSPL (Social Standard Plateform League), Best SSPL Clean Up Award,6th World Champion In OPL (Open Plateform League).
 
+## International Conferences
+- Jacques Saraydaryan, Fabrice Jumel, Olivier Simonin, Human Presence Probability Map (HPP): a Probability propagation based on Human Flow Grid, Annual RoboCup International Symposium RCS, 2023.
 
 # 2022
 ***
