@@ -10,7 +10,15 @@ accent_image:
   background: '#202020'
   overlay:    false
 ---
+# 2024
+***
+## International Conferences
+- Benoit Renault, Jacques Saraydaryan, David Brown & Olivier Simonin (2024). "Multi-Robot Navigation Among Movable Obstacles: Implicit Coordination to Deal with Conflicts and Deadlocks", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024
+- Erwan Escudie, Laëtitia Matignon & Jacques Saraydaryan (2024). ["Attention Graph for Multi-Robot Social Navigation with Deep Reinforcement Learning"](https://hal.science/hal-04427749/file/2401.17914.pdf). International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) 2024.
 
+## National Conferences
+- Jacques Saraydaryan, Fabrice Jumel & Olivier Simonin. "Prédiction des flux de personnes par propagation sur GPU des observations d’une flotte de robots". Journées Francophones sur les Systèmes Multi-Agents, JFSMA, 2024
+  
 # 2023
 ***
 ## Awards
