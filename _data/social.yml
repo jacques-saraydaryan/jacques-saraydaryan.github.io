@@ -104,6 +104,10 @@ github:
   name: GitHub
   icon: icon-github
   prepend: "https://github.com/"
+gitlab:
+  name: GitLab
+  icon: icon-gitlab-svgrepo-com
+  prepend: "https://gitlab.com/users/"
 npm:
   name: npm
   icon: icon-npm

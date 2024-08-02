@@ -23,9 +23,9 @@ Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
 
 
   
-<!-- Begin Jekyll SEO tag v2.4.0 -->
+<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Example content | Jacques Saraydaryan</title>
-<meta name="generator" content="Jekyll v3.8.5" />
+<meta name="generator" content="Jekyll v4.3.3" />
 <meta property="og:title" content="Example content" />
 <meta name="author" content="Jacques Saraydaryan" />
 <meta property="og:locale" content="en" />
@@ -36,8 +36,10 @@ Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
 <meta property="og:site_name" content="Jacques Saraydaryan" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2017-11-22T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Example content" />
 <script type="application/ld+json">
-{"description":"This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.","author":{"@type":"Person","name":"Jacques Saraydaryan"},"@type":"BlogPosting","url":"http://localhost:4000/2017/11/22/example-content/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon2.png"},"name":"Jacques Saraydaryan"},"headline":"Example content","dateModified":"2017-11-22T00:00:00+01:00","datePublished":"2017-11-22T00:00:00+01:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2017/11/22/example-content/"},"@context":"http://schema.org"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jacques Saraydaryan"},"dateModified":"2017-11-22T00:00:00+01:00","datePublished":"2017-11-22T00:00:00+01:00","description":"This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.","headline":"Example content","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2017/11/22/example-content/"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon2.png"},"name":"Jacques Saraydaryan"},"url":"http://localhost:4000/2017/11/22/example-content/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -145,8 +147,7 @@ Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
 
 <style id="_pageStyle">
 
-.content a:not(.btn){color:#4fb1ba;border-color:rgba(79,177,186,0.2)}.content a:not(.btn):hover{border-color:#4fb1ba}:focus{outline-color:#4fb1ba}.btn-primary{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(79,177,186,0.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#409ba3;border-color:#409ba3}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#409ba3;border-color:#409ba3}::selection{color:#fff;background:#4fb1ba}::-moz-selection{color:#fff;background:#4fb1ba}
-
+.content a:not(.btn){color:#4fb1ba;border-color:rgba(79,177,186,.2)}.content a:not(.btn):hover{border-color:#4fb1ba}:focus{outline-color:#4fb1ba}.btn-primary{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(79,177,186,.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#409ba3;border-color:#409ba3}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#409ba3;border-color:#409ba3}::selection{color:#fff;background:#4fb1ba}::-moz-selection{color:#fff;background:#4fb1ba}
 </style>
 
 <!--<![endif]-->
@@ -264,8 +265,8 @@ on <span>Test</span>
 <h3 id="header-3">Header 3</h3>
 
 <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Javascript code with syntax highlighting.</span>
-<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nx">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
-  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">'./lang/'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nf">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nf">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">./lang/</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
   <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
 <span class="p">}</span>
 </code></pre></div></div>
@@ -315,12 +316,12 @@ on <span>Test</span>
     </tr>
     <tr>
       <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="highlighter-rouge">oreos</code></td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">oreos</code></td>
       <td style="text-align: left">hmm</td>
     </tr>
     <tr>
       <td style="text-align: left">ok</td>
-      <td style="text-align: left">good <code class="highlighter-rouge">zoute</code> drop</td>
+      <td style="text-align: left">good <code class="language-plaintext highlighter-rouge">zoute</code> drop</td>
       <td style="text-align: left">yumm</td>
     </tr>
   </tbody>
@@ -399,33 +400,33 @@ on <span>Test</span>
   <dd>Green</dd>
 </dl>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. Or is it?
 </code></pre></div></div>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The final element.
 </code></pre></div></div>
 
 <h2 id="hydejack-exclusives">Hydejack Exclusives</h2>
 <p>Hydejack offers a few additional features to markup your markdown.
-Don’t worry, these are merely CSS classes added with kramdown’s <code class="highlighter-rouge">{:.my-class}</code> syntax,
+Don’t worry, these are merely CSS classes added with kramdown’s <code class="language-plaintext highlighter-rouge">{:.my-class}</code> syntax,
 so that your posts remain compatible with other Jekyll themes.</p>
 
 <h3 id="message-boxes">Message Boxes</h3>
-<p class="message">You can add a message box by adding the <code class="highlighter-rouge">message</code> class to a paragraph.</p>
+<p class="message">You can add a message box by adding the <code class="language-plaintext highlighter-rouge">message</code> class to a paragraph.</p>
 
 <h3 id="faded-text">Faded text</h3>
-<p class="faded">You can add gray text by adding the <code class="highlighter-rouge">faded</code> class.</p>
+<p class="faded">You can add gray text by adding the <code class="language-plaintext highlighter-rouge">faded</code> class.</p>
 
 <h3 id="lead-paragraphs">Lead Paragraphs</h3>
-<p class="lead">You can add large text by adding the <code class="highlighter-rouge">lead</code> class to a paragraph.</p>
+<p class="lead">You can add large text by adding the <code class="language-plaintext highlighter-rouge">lead</code> class to a paragraph.</p>
 
 <h3 id="lead-quotes">Lead Quotes</h3>
 <blockquote class="lead">
-  <p>You can make a quote “pop out” by adding the <code class="highlighter-rouge">lead</code> class to a quote.</p>
+  <p>You can make a quote “pop out” by adding the <code class="language-plaintext highlighter-rouge">lead</code> class to a quote.</p>
 </blockquote>
 
 <h3 id="lead-images">Lead Images</h3>
-<p>You can make an image span the full width by adding the <code class="highlighter-rouge">lead</code> class:</p>
+<p>You can make an image span the full width by adding the <code class="language-plaintext highlighter-rouge">lead</code> class:</p>
 
 <p><img src="https://placehold.it/800x100" alt="Full-width image" class="lead" /></p>
 
@@ -565,7 +566,7 @@ so that your posts remain compatible with other Jekyll themes.</p>
   </tbody>
 </table>
 
-<p>Prevent line breaks within cells by adding the <code class="highlighter-rouge">scroll-table</code> class to a table:</p>
+<p>Prevent line breaks within cells by adding the <code class="language-plaintext highlighter-rouge">scroll-table</code> class to a table:</p>
 
 <table class="scroll-table">
   <thead>
@@ -700,7 +701,7 @@ so that your posts remain compatible with other Jekyll themes.</p>
   </tbody>
 </table>
 
-<p>Flip the table by adding the <code class="highlighter-rouge">flip-table</code> class to a table:</p>
+<p>Flip the table by adding the <code class="language-plaintext highlighter-rouge">flip-table</code> class to a table:</p>
 
 <table class="flip-table">
   <thead>
@@ -908,9 +909,9 @@ so that your posts remain compatible with other Jekyll themes.</p>
 </table>
 
 <h3 id="math">Math</h3>
-<p>Inline math <code class="MathJax_Preview">f(x) = x^2</code><script type="math/tex">f(x) = x^2</script> and math blocks:</p>
+<p>Inline math \(f(x) = x^2\) and math blocks:</p>
 
-<pre class="MathJax_Preview"><code>\begin{aligned}
+\[\begin{aligned}
   \phi(x,y) &amp;= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
             &amp;= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
             &amp;= (x_1, \ldots, x_n)
@@ -924,23 +925,7 @@ so that your posts remain compatible with other Jekyll themes.</p>
                  \vdots \\
                  y_n
                \end{array}\right)
-\end{aligned}</code></pre>
-<script type="math/tex; mode=display">% <![CDATA[
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned} %]]></script>
+\end{aligned}\]
 
   
 </article>
@@ -1019,6 +1004,28 @@ so that your posts remain compatible with other Jekyll themes.</p>
   <a href="https://github.com/jacques-saraydaryan" title="GitHub" class="no-mark-external">
     <span class="icon-github"></span>
     <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://gitlab.com/users/jsaraydaryan/contributed" title="GitLab" class="no-mark-external">
+    <span class="icon-gitlab-svgrepo-com"></span>
+    <span class="sr-only">GitLab</span>
   </a>
 </li>
 
@@ -1222,6 +1229,28 @@ so that your posts remain compatible with other Jekyll themes.</p>
   <a href="https://github.com/jacques-saraydaryan" title="GitHub" class="no-mark-external">
     <span class="icon-github"></span>
     <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://gitlab.com/users/jsaraydaryan/contributed" title="GitLab" class="no-mark-external">
+    <span class="icon-gitlab-svgrepo-com"></span>
+    <span class="sr-only">GitLab</span>
   </a>
 </li>
 
