@@ -11,3 +11,5 @@ lang: fr
 ---
 # HTML 5 and CSS 3
 ## Course Description
+
+<embed src="/assets/pdf/courses/HTML5-CSS3-JSA-r2.pdf" width="100%" height="800px" type='application/pdf'/>

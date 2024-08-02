@@ -10,3 +10,5 @@ lang: fr
 ---
 # Security Introduction
 ## Course Description
+
+<embed src="/assets/pdf/courses/Security-JSA-Intro-r3.pdf" width="100%" height="800px" type='application/pdf'/>

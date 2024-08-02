@@ -11,3 +11,5 @@ lang: en
 ---
 # Robot Navigation Dstar Lite, Potential Field, and Ant based
 ## Course Description
+
+<embed src="/assets/pdf/courses/Robot-Navigation-ant-force-Field-Dstarlite-r1.pdf" width="100%" height="800px" type='application/pdf'/>

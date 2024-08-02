@@ -10,3 +10,5 @@ lang: fr
 ---
 # Cryptography
 ## Course Description
+
+<embed src="/assets/pdf/courses/Security-Chiffrement-JSA-r3.pdf" width="100%" height="800px" type='application/pdf'/>

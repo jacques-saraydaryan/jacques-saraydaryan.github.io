@@ -11,3 +11,5 @@ lang: fr
 ---
 # CSS
 ## Course Description
+
+<embed src="/assets/pdf/courses/CSS-JSA-r2.pdf" width="100%" height="800px" type='application/pdf'/>

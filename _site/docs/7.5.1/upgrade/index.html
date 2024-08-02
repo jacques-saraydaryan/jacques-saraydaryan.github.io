@@ -23,9 +23,9 @@ Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
 
 
   
-<!-- Begin Jekyll SEO tag v2.4.0 -->
+<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Upgrade | Jacques Saraydaryan</title>
-<meta name="generator" content="Jekyll v3.8.5" />
+<meta name="generator" content="Jekyll v4.3.3" />
 <meta property="og:title" content="Upgrade" />
 <meta name="author" content="Jacques Saraydaryan" />
 <meta property="og:locale" content="en" />
@@ -34,8 +34,11 @@ Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
 <link rel="canonical" href="http://localhost:4000/docs/7.5.1/upgrade/" />
 <meta property="og:url" content="http://localhost:4000/docs/7.5.1/upgrade/" />
 <meta property="og:site_name" content="Jacques Saraydaryan" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Upgrade" />
 <script type="application/ld+json">
-{"description":"This documents how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack.","author":{"@type":"Person","name":"Jacques Saraydaryan"},"@type":"WebPage","url":"http://localhost:4000/docs/7.5.1/upgrade/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon2.png"},"name":"Jacques Saraydaryan"},"headline":"Upgrade","@context":"http://schema.org"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Jacques Saraydaryan"},"description":"This documents how to upgrade Hydejack to a newer version. The method depends on how you’ve installed Hydejack.","headline":"Upgrade","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/icons/icon2.png"},"name":"Jacques Saraydaryan"},"url":"http://localhost:4000/docs/7.5.1/upgrade/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -143,8 +146,7 @@ Powered by Hydejack v7.5.1 <https://qwtel.com/hydejack/>
 
 <style id="_pageStyle">
 
-.content a:not(.btn){color:#4fb1ba;border-color:rgba(79,177,186,0.2)}.content a:not(.btn):hover{border-color:#4fb1ba}:focus{outline-color:#4fb1ba}.btn-primary{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(79,177,186,0.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#409ba3;border-color:#409ba3}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#409ba3;border-color:#409ba3}::selection{color:#fff;background:#4fb1ba}::-moz-selection{color:#fff;background:#4fb1ba}
-
+.content a:not(.btn){color:#4fb1ba;border-color:rgba(79,177,186,.2)}.content a:not(.btn):hover{border-color:#4fb1ba}:focus{outline-color:#4fb1ba}.btn-primary{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:focus,.btn-primary.focus{box-shadow:0 0 0 3px rgba(79,177,186,.5)}.btn-primary:hover,.btn-primary.hover{color:#fff;background-color:#409ba3;border-color:#409ba3}.btn-primary:disabled,.btn-primary.disabled{color:#fff;background-color:#4fb1ba;border-color:#4fb1ba}.btn-primary:active,.btn-primary.active{color:#fff;background-color:#409ba3;border-color:#409ba3}::selection{color:#fff;background:#4fb1ba}::-moz-selection{color:#fff;background:#4fb1ba}
 </style>
 
 <!--<![endif]-->
@@ -224,15 +226,15 @@ and the prime reason why I suggest using the gem-based version of the theme.</p>
 <p>Generally, you’ll want to copy these files and folders:</p>
 
 <ul>
-  <li><code class="highlighter-rouge">_includes/</code></li>
-  <li><code class="highlighter-rouge">_layouts/</code></li>
-  <li><code class="highlighter-rouge">_sass/</code></li>
-  <li><code class="highlighter-rouge">assets/</code></li>
-  <li><code class="highlighter-rouge">Gemfile</code></li>
-  <li><code class="highlighter-rouge">Gemfile.lock</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_includes/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">_sass/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">assets/</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile</code></li>
+  <li><code class="language-plaintext highlighter-rouge">Gemfile.lock</code></li>
 </ul>
 
-<p>and merge them with your existing folder. However, you’ll also want to check out <code class="highlighter-rouge">_data</code> and <code class="highlighter-rouge">_config.yml</code> for any changes
+<p>and merge them with your existing folder. However, you’ll also want to check out <code class="language-plaintext highlighter-rouge">_data</code> and <code class="language-plaintext highlighter-rouge">_config.yml</code> for any changes
 and read latest entries to the <a href="../../CHANGELOG.md" class="heading flip-title">CHANGELOG</a>.</p>
 
 <p class="message"><strong>NOTE</strong>: If you’ve modified any of Hydejack’s internal files, your changes will most likely be overwritten
@@ -240,7 +242,7 @@ and you have to apply them again.
 Make sure you’ve made a backup before overwriting any files.</p>
 
 <h2 id="via-git">Via git</h2>
-<p>The latest version sits on the <code class="highlighter-rouge">master</code> branch of <a href="https://github.com/qwtel/hydejack">qwtel/hydejack</a>.
+<p>The latest version sits on the <code class="language-plaintext highlighter-rouge">master</code> branch of <a href="https://github.com/qwtel/hydejack">qwtel/hydejack</a>.
 To apply them to your repository run</p>
 
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git remote add hydejack git@github.com:qwtel/hydejack.git
@@ -248,13 +250,13 @@ To apply them to your repository run</p>
 </code></pre></div></div>
 
 <h2 id="pro-version">PRO Version</h2>
-<p>Buyers of the PRO version will find the files necessary for an upgrade in the <code class="highlighter-rouge">upgrade</code> folder of the downloaded zip archive.</p>
+<p>Buyers of the PRO version will find the files necessary for an upgrade in the <code class="language-plaintext highlighter-rouge">upgrade</code> folder of the downloaded zip archive.</p>
 
 <p class="message"><strong>NOTE</strong>: If you’ve modified any of Hydejack’s internal files, your changes will most likely be overwritten
 and you have to apply them again.
 Make sure you’ve made a backup before overwriting any files.</p>
 
-<p>The archive also contains <code class="highlighter-rouge">.patch</code> files, that you can apply to your repository via <a href="https://git-scm.com/docs/git-apply">git-apply</a>.
+<p>The archive also contains <code class="language-plaintext highlighter-rouge">.patch</code> files, that you can apply to your repository via <a href="https://git-scm.com/docs/git-apply">git-apply</a>.
 Using this method, git will generate merge conflicts when changes in the patch conflict with any of your changes.</p>
 
 <h3 id="pro-via-github-advanced">PRO via GitHub (advanced)</h3>
@@ -380,6 +382,28 @@ Using this method, git will generate merge conflicts when changes in the patch c
   <a href="https://github.com/jacques-saraydaryan" title="GitHub" class="no-mark-external">
     <span class="icon-github"></span>
     <span class="sr-only">GitHub</span>
+  </a>
+</li>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="https://gitlab.com/users/jsaraydaryan/contributed" title="GitLab" class="no-mark-external">
+    <span class="icon-gitlab-svgrepo-com"></span>
+    <span class="sr-only">GitLab</span>
   </a>
 </li>
 

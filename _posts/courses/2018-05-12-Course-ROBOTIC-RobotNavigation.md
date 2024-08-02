@@ -11,3 +11,5 @@ lang: en
 ---
 # Robot Navigation and Collision Avoidance
 ## Course Description
+
+<embed src="/assets/pdf/courses/Robot-Navigation-Collision-Avoidance-r3.pdf" width="100%" height="800px" type='application/pdf'/>

@@ -10,3 +10,5 @@ lang: en
 ---
 # React.js And Redux
 ## Course Description
+
+<embed src="/assets/pdf/courses/React.js.r1.pdf" width="100%" height="800px" type='application/pdf'/>

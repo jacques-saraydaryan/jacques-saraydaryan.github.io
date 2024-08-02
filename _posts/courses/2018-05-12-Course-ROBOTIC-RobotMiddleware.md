@@ -11,3 +11,5 @@ lang: en
 ---
 # Robot Middleware
 ## Course Description
+
+<embed src="/assets/pdf/courses/CapTronic-2015-Full.pdf" width="100%" height="800px" type='application/pdf'/>

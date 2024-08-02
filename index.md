@@ -11,4 +11,4 @@ description:
 >Currently, I am a member of the engineers School of [CPE Lyon](https://www.cpe.fr/) as associate professor. 
 >My experience into behavior modeling help me to integrate the robotic research team of the school. 
 >I join the [CITI Lab](http://www.citi-lab.fr/) in 2015 and becomes associate members of the [INRIA Chroma team](https://team.inria.fr/chroma/). 
->My current research is focused on Human and Robot Interaction and is focued on managing robot fleet to deliver service to human.
+>My current research focuses on human-robot interaction, social robot navigation, and the management of robot fleets to provide services to humans.

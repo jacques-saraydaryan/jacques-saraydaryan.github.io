@@ -10,3 +10,5 @@ lang: fr
 ---
 # JEE Web Container
 ## Course Description
+
+<embed src="/assets/pdf/courses/JEE-WebContainer-2016-r5.pdf" width="100%" height="800px" type='application/pdf' />
