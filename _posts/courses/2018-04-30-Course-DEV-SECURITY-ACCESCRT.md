@@ -10,3 +10,5 @@ lang: fr
 ---
 # Access Control
 ## Course Description
+
+<embed src="/assets/pdf/courses/Security-JSA-ControleAcces-r1.pdf" width="100%" height="800px" type='application/pdf'/>

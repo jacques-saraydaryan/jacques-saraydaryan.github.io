@@ -10,3 +10,5 @@ lang: fr
 ---
 # Risk Analysis
 ## Course Description
+
+<embed src="/assets/pdf/courses/Security-Risk-r4.pdf" width="100%" height="800px" type='application/pdf'/>

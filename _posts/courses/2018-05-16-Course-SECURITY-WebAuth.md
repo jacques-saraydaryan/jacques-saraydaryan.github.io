@@ -10,3 +10,5 @@ lang: fr
 ---
 # Web Authentication
 ## Course Description
+
+<embed src="/assets/pdf/courses/Security-JSA-WebAuth-r1.pdf" width="100%" height="800px" type='application/pdf'/>

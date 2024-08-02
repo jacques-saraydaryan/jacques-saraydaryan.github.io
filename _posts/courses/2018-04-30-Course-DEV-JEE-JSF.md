@@ -10,3 +10,5 @@ lang: fr
 ---
 # JEE JSF
 ## Course Description
+
+<embed src="/assets/pdf/courses/JEE-JSF-2016-r1.pdf" width="100%" height="800px" type='application/pdf'/>

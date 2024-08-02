@@ -11,3 +11,5 @@ lang: fr
 ---
 # Google App. Engine
 ## Course Description
+
+<embed src="/assets/pdf/courses/GoogleAppEngine-JSA-r5.pdf" width="100%" height="800px" type='application/pdf'/>

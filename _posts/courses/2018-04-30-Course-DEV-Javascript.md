@@ -10,3 +10,5 @@ lang: fr
 ---
 # Javascript
 ## Course Description
+
+<embed src="/assets/pdf/courses/JavaScript-JSA-r3.pdf" width="100%" height="800px" type='application/pdf'/>

@@ -11,3 +11,5 @@ lang: fr
 ---
 # Cloud Computing
 ## Course Description
+
+<embed src="/assets/pdf/courses/Cloud-Computing-intro.pdf" width="100%" height="800px" type='application/pdf'/>

@@ -10,3 +10,5 @@ lang: fr
 ---
 # Network Security
 ## Course Description
+
+<embed src="/assets/pdf/courses/Security-JSA-Reseaux-r1.pdf" width="100%" height="800px" type='application/pdf'/>
