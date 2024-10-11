@@ -9,7 +9,7 @@ videotype: image
 img: /assets/img/actu/training.jpg
 img_front: /assets/img/actu/post/Particles-filter-v1.gif
 img_front_alt: Paticles-filter-tool
-lang: fr
+lang: en
 ---
 A practical work is available here [Gitlab Particles Filter Training](https://gitlab.com/js-ros-training/particles_filter_simulator_student).
 The simulator use matplotlib for display, ranglibc for ray tracing. Currentlyt a bicycle motion model is used for motion.
