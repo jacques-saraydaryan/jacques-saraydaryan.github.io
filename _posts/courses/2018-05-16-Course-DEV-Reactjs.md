@@ -10,5 +10,13 @@ lang: en
 ---
 # React.js And Redux
 ## Course Description
+ An introduction to ReactJs frame Work
 
+## Training
+- Tutorials:
+ - Step by Step: [https://gitlab.com/js-asi2/asi2-frontend-readjs-tp](https://gitlab.com/js-asi2/asi2-frontend-readjs-tp)
+ - Course example: [https://github.com/jacques-saraydaryan/front-end-react.js](https://github.com/jacques-saraydaryan/front-end-react.js)
+ - Redux: [https://gitlab.com/js-asi2/simple-hooks](https://gitlab.com/js-asi2/simple-hooks) 
+ 
+## Course
 <embed src="/assets/pdf/courses/React.js.r1.pdf" width="100%" height="800px" type='application/pdf'/>
