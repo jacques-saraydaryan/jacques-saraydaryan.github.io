@@ -5,7 +5,7 @@ description: >
   Presentation of the Flux and React.js philosophy. Presentation of usage of React.js and Redux
 tags: [course, DEV]
 img: /assets/img/courses/ReactJs.jpg
-pdf: /assets/pdf/courses/React.js.r1.pdf
+pdf: /assets/pdf/courses/React.js.r5.pdf
 lang: en
 ---
 # React.js And Redux
@@ -19,4 +19,4 @@ lang: en
  - Redux: [https://gitlab.com/js-asi2/simple-hooks](https://gitlab.com/js-asi2/simple-hooks) 
  
 ## Course
-<embed src="/assets/pdf/courses/React.js.r1.pdf" width="100%" height="800px" type='application/pdf'/>
+<embed src="/assets/pdf/courses/React.js.r5.pdf" width="100%" height="800px" type='application/pdf'/>
