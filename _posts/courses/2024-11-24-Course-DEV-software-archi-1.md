@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Software Architecture: Server Side Rendering, Microservices
+title: Software Architecture, Server Side Rendering, Microservices
 description: >
-  Introduction to software architectures, Server Side Rendering vs Full Rest Web  Services, Monolithic vs Microservices concepts. A Springboot application
+  Introduction to software architectures -- Server Side Rendering vs Full Rest Web  Services, Monolithic vs Microservices concepts. A Springboot application
 tags: [course, DEV]
 img: /assets/img/courses/SpringBoot.jpg
-pdf: /assets/pdf/courses/SpringBoot.pdf
 pdf: /assets/pdf/courses/SpringBoot.pdf
 lang: en
 ---
