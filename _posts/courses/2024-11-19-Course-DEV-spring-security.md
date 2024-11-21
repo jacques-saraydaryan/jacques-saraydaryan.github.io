@@ -17,7 +17,7 @@ lang: fr
     - Spring Security Step by Step: [https://gitlab.com/js-as1/asi1-springboot-and-security](https://gitlab.com/js-as1/asi1-springboot-and-security)
  
 ## Courses
-<embed src="/assets/pdf/courses/ArchitectureApp-v2.pdf" width="100%" height="800px" type='application/pdf'/>
+<embed src="/assets/pdf/courses/Spring-Security.pdf" width="100%" height="800px" type='application/pdf'/>
 
 
 

@@ -17,6 +17,10 @@ lang: fr
     - Spring boot Step by Step: [https://gitlab.com/js-as1/asi1-springboot-tuto](https://gitlab.com/js-as1/asi1-springboot-tuto)
  
 ## Courses
-<embed src="/assets/pdf/courses/Spring-Security.pdf" width="100%" height="800px" type='application/pdf'/>
+### Architecture
+<embed src="/assets/pdf/courses/ArchitectureApp-v2.pdf" width="100%" height="800px" type='application/pdf'/>
+
+### Intro Springboot
+<embed src="/assets/pdf/courses/Intro-SpringBoot-v1.pdf" width="100%" height="800px" type='application/pdf'/>
 
 
