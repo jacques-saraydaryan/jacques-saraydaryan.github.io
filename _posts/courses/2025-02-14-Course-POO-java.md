@@ -24,4 +24,4 @@ lang: fr
 <embed src="/assets/pdf/courses/Langage-Java-POO-r1.pdf" width="100%" height="800px" type='application/pdf'/>
 
 ### Advanced Java Langage
-<embed src="/assets/pdf/courses/Langage-Java-avance-r1.pptx" width="100%" height="800px" type='application/pdf'/>
+<embed src="/assets/pdf/courses/Langage-Java-avance-r1.pdf" width="100%" height="800px" type='application/pdf'/>
