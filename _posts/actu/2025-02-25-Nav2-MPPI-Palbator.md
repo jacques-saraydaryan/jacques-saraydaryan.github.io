@@ -5,7 +5,6 @@ description: >
  Enhanced Navigation using ROS-2 - Nav2 with laser Obstacle layer (global and local costmap), Spatio-Temporal Voxel Layer (global and local costmap), MPPI Controller (PMB-2 Pal mobile based)
 tags: [project]
 category: actu
-videotype: image
 img: /assets/img/actu/robocup-pepper.jpg
 video: https://www.youtube.com/embed/iOiz4mre8yw
 lang: en
