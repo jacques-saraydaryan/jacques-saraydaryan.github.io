@@ -6,7 +6,7 @@ description: >
 tags: [project]
 category: actu
 img: /assets/img/actu/robocup-pepper.jpg
-video: https://www.youtube.com/embed/iOiz4mre8yw
+video: https://www.youtube.com/embed/rbfQ-L5UmCc
 lang: en
 ---
 We have updated the navigation of the Palbator, [LyonTech team robot](https://robocup-lyontech.github.io/). 
