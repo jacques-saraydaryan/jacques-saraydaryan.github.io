@@ -10,6 +10,20 @@ accent_image:
   background: '#202020'
   overlay:    false
 ---
+<!-- 
+# 2026
+## International Conferences
+- Takieddine Soualhi, Jacques Saraydaryan, Laetitia Matignon, "Human‑Aware Multi‑Robot Navigation in Constrained Environments\ Using Multi-agent Reinforcement Learning", IEEE International Conference on Robotics and Automation (ICRA), 2026 
+
+# 2025
+## international Journals
+- David Brown, Jacques Saraydaryan, Benoit Renault, Olivier Simonin. "NAMOSIM: a Robot Motion Planner for Navigation Among Movable Obstacles",  Journal of Open Source Software, JOSS, 2025
+
+## National Journals
+- Jacques Saraydaryan, Fabrice Jumel, Olivier Simonin. "Prédiction des flux de personnes par propagation sur GPU des observations d'une flotte de robots",  Revue Ouverte d’Intelligence Artificielle, ROIA, 2025
+
+
+-->
 # 2024
 ***
 ## International Conferences
