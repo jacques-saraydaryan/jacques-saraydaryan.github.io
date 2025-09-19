@@ -159,4 +159,4 @@ accent_image:
 ## National Journals
 - Jacques Saraydaryan, Fabrice Jumel, Olivier Simonin. "Prédiction des flux de personnes par propagation sur GPU des observations d'une flotte de robots",  Revue Ouverte d’Intelligence Artificielle, ROIA, 2025
 
-{% comment %} 
+{% endcomment %} 
