@@ -25,6 +25,10 @@ accent_image:
 ## International Journals
 - David Brown, Jacques Saraydaryan, Benoit Renault, Olivier Simonin. ["NAMOSIM: a Robot Motion Planner for Navigation Among Movable Obstacles"](https://joss.theoj.org/papers/10.21105/joss.08816), Journal of Open Source Software, JOSS, 2025
 
+## National Conferences
+
+- David Brown, Jacques Saraydaryan, Olivier Simonin, "NAMOROS: a ROS 2 Package for Navigation Among Movable Obstacles", ROSCon fr, 2025
+
 # 2024
 ***
 ## International Conferences
