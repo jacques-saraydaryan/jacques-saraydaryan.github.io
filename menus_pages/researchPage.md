@@ -12,11 +12,10 @@ accent_image:
 ---
 
 {% comment %} 
-# 2026
 ## International Conferences
 - Takieddine Soualhi, Jacques Saraydaryan, Laetitia Matignon, "Human‑Aware Multi‑Robot Navigation in Constrained Environments\ Using Multi-agent Reinforcement Learning", IEEE International Conference on Robotics and Automation (ICRA), 2026 
 {% endcomment %} 
-
+# 2026
 ## National Journals
 - Jacques Saraydaryan, Fabrice Jumel, Olivier Simonin. "Prédiction des flux de personnes par propagation sur GPU des observations d'une flotte de robots",  Revue Ouverte d’Intelligence Artificielle, ROIA, 2026
 
