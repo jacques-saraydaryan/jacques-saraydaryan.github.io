@@ -25,6 +25,7 @@ accent_image:
 
 ## International Workshops
 - Maxime Bernard, Damien Rambeau, Jacques Saraydaryan, Olivier Simonin, "Simulation and Prediction of Human Flows in Hospital Environments from Assistive Robot Observations", Workshop on Pedestrian Behaviour Prediction at ICRA, 2026
+- Takieddine Soualhi, Jacques Saraydaryan, Laetitia Matignon, "Deep Multi-Agent Reinforcement Learning for Multi-Robot Social Navigation in Constrained Environments", Workshop Long-term Deployments in the Wild (LoWi) at ICRA, 2026
 
 
 # 2025
